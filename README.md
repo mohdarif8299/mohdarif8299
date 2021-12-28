@@ -8,7 +8,6 @@
 > I create successful websites and systems on the web, fast, simple and easy to use. I just love what I do.❤️
 
 Things I like to do:
-- 🎨 Girls
 - 🖥 Web Applications
 - 📱 Applications
 
