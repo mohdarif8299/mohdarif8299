@@ -5,14 +5,14 @@
 [![Gmail Badge](https://img.shields.io/badge/mohdarif8299@gmail.com-D02B07?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohdarif8299@gmail.com)](mailto:mohdarif8299@gmail.com)
 
 
-> I create successful websites and systems on the web, fast, simple and easy to use. I just love what I do.❤️
+> I create websites and systems on the web, fast, simple and easy to use. I just love what I do.❤️
 
 Things I like to do:
 - 🖥 Web Applications
 - 📱 Applications
 
 About me:
-- ⚡ I'm 20 years old, i'm passionate about coding,technology and games
+- ⚡ I'm 21 years old, i'm passionate about coding,technology and games
 - 🌱 I'm currently in a learning mode
 - 💬 Ask me about anything but know that I am passionate about technology
 - ⚡ Fun fact: I am quietly confident, naturally curious and perpetually working to face all the challenges that lie ahead.
