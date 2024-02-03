@@ -1,5 +1,5 @@
 ### Hi 👋, Welcome! 👨‍💻 
-<img align="right" src="https://komarev.com/ghpvc/?username=mohdarif8299&label=Profile Views&color=blue&style=plastic" alt="mohdarif" /> 
+<img align="right" src="https://komarev.com/ghpvc/?username=mohdarif8299&label=ProfileViews&color=blue&style=plastic" alt="mohdarif" /> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mohd%20Arif-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohdarif8299/)](https://www.linkedin.com/in/mohdarif8299/) 
 [![Gmail Badge](https://img.shields.io/badge/mohdarif8299@gmail.com-D02B07?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohdarif8299@gmail.com)](mailto:mohdarif8299@gmail.com)
@@ -10,6 +10,8 @@
 Things I like to do:
 - 🖥 Web Applications
 - 📱 Applications
+- 🖥 Data Science
+- 🖥 Machine Learning
 
 About me:
 - ⚡ I'm 22 years old, I'm Passionate about coding, technology and games
@@ -17,7 +19,6 @@ About me:
 - 💬 Ask me about anything but know that I am passionate about technology
 - ⚡ Fun fact: I am quietly confident, naturally curious and perpetually working to face all the challenges that lie ahead.
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mohdarif8299&theme=white"  >
 
 **Languages and Tools:**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
