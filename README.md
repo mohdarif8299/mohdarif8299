@@ -14,7 +14,7 @@ Things I like to do:
 - 🖥 Machine Learning
 
 About me:
-- ⚡ I'm 22 years old, I'm Passionate about coding, technology and games
+- ⚡ I'm 23 years old, I'm Passionate about coding, technology and games
 - 🌱 I'm currently in a learning mode
 - 💬 Ask me about anything but know that I am passionate about technology
 - ⚡ Fun fact: I am quietly confident, naturally curious and perpetually working to face all the challenges that lie ahead.
