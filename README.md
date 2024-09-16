@@ -1,37 +1,60 @@
-### Hi 👋, Welcome! 👨‍💻 
-<img align="right" src="https://komarev.com/ghpvc/?username=mohdarif8299&label=ProfileViews&color=blue&style=plastic" alt="mohdarif" /> 
+# Hi there 👋, I'm Mohd Arif
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mohd%20Arif-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohdarif8299/)](https://www.linkedin.com/in/mohdarif8299/) 
-[![Gmail Badge](https://img.shields.io/badge/mohdarif8299@gmail.com-D02B07?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohdarif8299@gmail.com)](mailto:mohdarif8299@gmail.com)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mohdarif8299)](https://git.io/streak-stats)
+[![GitHub Contributions](https://badges.pufler.dev/commits/monthly/mohdarif8299)](https://github.com/mohdarif8299)
 
+Welcome to my GitHub! I'm a Full Stack Web Developer and Data Scientist with experience in machine learning, web development, and software engineering.
 
-> I create websites and systems on the web, fast, simple and easy to use. I just love what I do.❤️
+## 🔭 Current Role
+**Full Stack Web Developer**  
+City, University of London (March 2024 – Present)  
+- Developing a tablet-based app using **React Native** and **Firebase** for the eCARLI Project, aimed at assessing word understanding in toddlers.
+- Leading the development of a prototype with a dynamic assessment methodology.
 
-Things I like to do:
-- 🖥 Web Applications
-- 📱 Applications
-- 🖥 Data Science
-- 🖥 Machine Learning
+## 👨‍💻 Experience
+**Software Engineer**  
+MakeMyTrip (July 2022 – August 2023)  
+- Led end-to-end development using **Java**, **Spring Boot**, and **React** for scalable and feature-rich services.
+- Played a key role in migrating to microservices architecture using gRPC, reducing latency by 35%.
+- Optimized application performance, resulting in a 40% increase in business revenue.
 
-About me:
-- ⚡ I'm 23 years old, I'm Passionate about coding, technology and games
-- 🌱 I'm currently in a learning mode
-- 💬 Ask me about anything but know that I am passionate about technology
-- ⚡ Fun fact: I am quietly confident, naturally curious and perpetually working to face all the challenges that lie ahead.
+**Software Engineer Intern**  
+Scaler Academy (Jan 2022 – June 2022)  
+- Developed web applications with **Ruby on Rails** and **React**.
+- Managed SQL databases and developed RESTful APIs to ensure efficient data handling.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohdarif8299&theme=light)
+## 🎓 Education
+**Master’s in Data Science**  
+City, University of London (2023 – Present)  
+**Bachelor in Technology (Computer Science)**  
+Guru Gobind Singh Indraprastha University (2019 – 2022)  
+**Diploma in Computer Engineering**  
+Jamia Millia Islamia (2016 – 2019)
 
-**Languages and Tools:**  
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/27804?s=200&v=4" alt="Django"></code>  
+## 🌟 Projects
+- **Fake News Prediction**  
+  Developed a machine learning model using **Random Forest** achieving 95.16% accuracy. Utilized **TF-IDF** vectorization on the WELFake dataset to improve model performance.
+
+- **Spotify Song Success Prediction**  
+  Leveraged **Random Forest** and **Logistic Regression** models to predict song popularity based on audio features and artist metrics, achieving superior accuracy with Random Forest.
+
+- **E-Commerce Web Application**  
+  Developed a secure, user-friendly e-commerce platform using **Spring Boot** and **Java**, with features like user authentication, shopping cart, and a comprehensive product catalog.
+
+## 🛠 Technical Skills
+- **Languages**: Python, Java, Ruby, C/C++, SQL, JavaScript, HTML/CSS
+- **Frameworks**: Ruby on Rails, Spring Boot, React, Typescript, Node.js
+- **Developer Tools**: Git, AWS, VS Code, Visual Studio, IntelliJ, Eclipse, Tableau
+- **Libraries**: Pandas, Data Analysis, Machine Learning, NLP, Big Data, Neural Computing, Information Retrieval
+
+## 🏆 Achievements
+- Awarded **Global STEM Leadership Scholarship** for Masters in the UK.
+- Secured a **Global Rank of 326** in Scaler Codex Coding Competition.
+- Hosted two Android applications on Google Play Store with 100+ downloads.
+
+## 📫 How to reach me
+- Email: [mohdarif8299@gmail.com](mailto:mohdarif8299@gmail.com)
+- LinkedIn: [linkedin.com/in/mohdarif8299](https://linkedin.com/in/mohdarif8299)
+- GitHub: [github.com/mohdarif8299](https://github.com/mohdarif8299)
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
